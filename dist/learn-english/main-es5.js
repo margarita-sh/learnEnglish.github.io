@@ -1335,7 +1335,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-game"]],
       decls: 9,
       vars: 10,
-      consts: [[1, "app-game"], [1, "app-game--container"], ["aria-label", "showText", 3, "mode", "value", "strokeWidth", "diameter"], [1, "app-game--count"], [4, "ngIf"], [1, "ball"], [1, "app-game--btn-start", 3, "click"], [1, "app-game--word-english"], [1, "app-game--hidden-content"], ["src", "../../../assets/img/checkmark.png", "alt", "checkmark", 1, "app-game--checkmark"], ["src", "../../../assets/img/close.svg.png", "alt", "checkmark", 1, "app-game--close"], ["class", "app-game--btn-answer", 3, "ngStyle", "click", 4, "ngFor", "ngForOf"], [1, "app-game--btn-answer", 3, "ngStyle", "click"], [1, "app-game--answer"], [1, "app-game--btn-dictionary", 3, "click"], [1, "app-game--btn-repeat", 3, "click"]],
+      consts: [[1, "app-game"], [1, "app-game--container"], ["aria-label", "showText", 3, "mode", "value", "strokeWidth", "diameter"], [1, "app-game--count"], [4, "ngIf"], [1, "ball"], [1, "app-game--btn-start", 3, "click"], [1, "app-game--word-english"], [1, "app-game--hidden-content"], ["src", "./assets/img/checkmark.png", "alt", "checkmark", 1, "app-game--checkmark"], ["src", "./assets/img/close.svg.png", "alt", "checkmark", 1, "app-game--close"], ["class", "app-game--btn-answer", 3, "ngStyle", "click", 4, "ngFor", "ngForOf"], [1, "app-game--btn-answer", 3, "ngStyle", "click"], [1, "app-game--answer"], [1, "app-game--btn-dictionary", 3, "click"], [1, "app-game--btn-repeat", 3, "click"]],
       template: function GameComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
