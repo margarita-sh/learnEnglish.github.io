@@ -1,0 +1,58 @@
+{
+	"MENU": {
+	  "HOME": "Home",
+	  "GAME": "Game",
+	  "DICTIONARY": "Dictionary",
+	  "TRANSLATOR": "Translator",
+	  "ABOUT ME": "About me" 
+	},
+
+	"HOME": {
+		"TITLE": "Hello, my friend!",
+		"TEXT": "This is a small service that will help you learn new words or repeat previously learned words in English. Participate in the game by choosing the correct translation options. Words to be chosen incorrectly for further study.",
+		"BUTTON": "go to game..."
+	},
+
+	"GAME": {
+		"BUTTON-START": "Start the game",
+		"BUTTON-REPEAT": "Play again",
+		"BUTTON-LEARN": "Learn unfamiliar words",
+		"TRUE-ANSWER": "The number of correct answers",
+		"WRONG-ANSWER": "Number of incorrect answers",
+		"RESULT_WIN": "Victory!",
+		"RESULT_FAIL": "Defeat :(",
+		"RESULT_DRAW": "Draw :|"
+	},
+
+	"DICTIONARY": {
+		"BUTTON": "I know",
+		"TRANSLATION":"Translation",
+		"ENGLISH-WORD": "English word",
+		"LISTEN": "Listen",
+		"REMOVE": "Remove",
+		"WARNING": "There are no words to learn in your dictionary. In order for the words to appear, please play the game, all the incorrect answers in the game will appear in the dictionary for further training."
+	},
+
+	"TRANSLATOR": {
+		"MAT-LABEL": "Enter the word",
+		"EXAMPLE": "enter word..."
+	},
+
+	"PROFILE": {
+		"TITLE": "My profile",
+		"MAT-LABEL": "Enter your nickname",
+		"BUTTON": "Done"
+	},
+
+	"NOTFOUND": {
+		"TEXT": "Page not found",
+		"BUTTON": "Back"
+	},
+
+	"ABOUT-ME": {
+		"ARTICLE": "Hello! My name is Margarita. I began my introduction to programming in December 2019. This is my first project written in a programming language.",
+		"TEXT": "This project was created as part of the EPAM training. The project uses technologies such as",
+		"CONTINUE": "using libraries"
+	}
+
+  }
