@@ -474,13 +474,13 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-function DictionaryComponent_div_2_th_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 20);
+function DictionaryComponent_table_3_th_2_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 21);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, " N. ");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } }
-function DictionaryComponent_div_2_td_4_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 21);
+function DictionaryComponent_table_3_td_3_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 22);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -489,8 +489,8 @@ function DictionaryComponent_div_2_td_4_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", ctx_r3.dataSource.filteredData.indexOf(element_r14) + 1, " ");
 } }
-function DictionaryComponent_div_2_th_6_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 20);
+function DictionaryComponent_table_3_th_5_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 21);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](2, "translate");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -498,8 +498,8 @@ function DictionaryComponent_div_2_th_6_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.TRANSLATION"));
 } }
-function DictionaryComponent_div_2_td_7_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 22);
+function DictionaryComponent_table_3_td_6_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 23);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -507,8 +507,8 @@ function DictionaryComponent_div_2_td_7_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", element_r15.russianWord, " ");
 } }
-function DictionaryComponent_div_2_th_9_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 20);
+function DictionaryComponent_table_3_th_8_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 21);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](2, "translate");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -516,8 +516,8 @@ function DictionaryComponent_div_2_th_9_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.ENGLISH-WORD"));
 } }
-function DictionaryComponent_div_2_td_10_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 22);
+function DictionaryComponent_table_3_td_9_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 23);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -525,20 +525,20 @@ function DictionaryComponent_div_2_td_10_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", element_r16.englishWord, " ");
 } }
-function DictionaryComponent_div_2_th_12_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 23);
+function DictionaryComponent_table_3_th_11_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 24);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](2, "translate");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.LISTEN"), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.LISTEN"), " ");
 } }
-function DictionaryComponent_div_2_td_13_Template(rf, ctx) { if (rf & 1) {
+function DictionaryComponent_table_3_td_12_Template(rf, ctx) { if (rf & 1) {
     const _r19 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 24);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "mat-spinner-button", 25);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function DictionaryComponent_div_2_td_13_Template_mat_spinner_button_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r19); const word_r17 = ctx.$implicit; const ctx_r18 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2); return ctx_r18.playAudio(word_r17); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 25);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "mat-spinner-button", 26);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function DictionaryComponent_table_3_td_12_Template_mat_spinner_button_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r19); const word_r17 = ctx.$implicit; const ctx_r18 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2); return ctx_r18.playAudio(word_r17); });
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
@@ -547,20 +547,20 @@ function DictionaryComponent_div_2_td_13_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("options", ctx_r9.getSpinnerButtonOptions(word_r17));
 } }
-function DictionaryComponent_div_2_th_15_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 26);
+function DictionaryComponent_table_3_th_14_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "th", 27);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](2, "translate");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"]("", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.REMOVE"), " ");
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.REMOVE"), " ");
 } }
-function DictionaryComponent_div_2_td_16_Template(rf, ctx) { if (rf & 1) {
+function DictionaryComponent_table_3_td_15_Template(rf, ctx) { if (rf & 1) {
     const _r22 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 27);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 28);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function DictionaryComponent_div_2_td_16_Template_button_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r22); const word_r20 = ctx.$implicit; const ctx_r21 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2); return ctx_r21.removeWordFromDictionary(word_r20); });
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "td", 28);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "button", 29);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function DictionaryComponent_table_3_td_15_Template_button_click_1_listener() { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r22); const word_r20 = ctx.$implicit; const ctx_r21 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"](2); return ctx_r21.removeWordFromDictionary(word_r20); });
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](3, "translate");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -569,61 +569,55 @@ function DictionaryComponent_div_2_td_16_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](3, 1, "DICTIONARY.BUTTON"));
 } }
-function DictionaryComponent_div_2_tr_17_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 29);
-} }
-function DictionaryComponent_div_2_tr_18_Template(rf, ctx) { if (rf & 1) {
+function DictionaryComponent_table_3_tr_16_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 30);
 } }
-const _c0 = function () { return [10, 20, 50, 100]; };
-function DictionaryComponent_div_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div");
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "table", 4);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](2, 5);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, DictionaryComponent_div_2_th_3_Template, 2, 0, "th", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](4, DictionaryComponent_div_2_td_4_Template, 2, 1, "td", 7);
+function DictionaryComponent_table_3_tr_17_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "tr", 31);
+} }
+function DictionaryComponent_table_3_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "table", 6);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](1, 7);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, DictionaryComponent_table_3_th_2_Template, 2, 0, "th", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, DictionaryComponent_table_3_td_3_Template, 2, 1, "td", 9);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](5, 8);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](6, DictionaryComponent_div_2_th_6_Template, 3, 3, "th", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](7, DictionaryComponent_div_2_td_7_Template, 2, 1, "td", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](4, 10);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](5, DictionaryComponent_table_3_th_5_Template, 3, 3, "th", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](6, DictionaryComponent_table_3_td_6_Template, 2, 1, "td", 11);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](8, 10);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](9, DictionaryComponent_div_2_th_9_Template, 3, 3, "th", 6);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](10, DictionaryComponent_div_2_td_10_Template, 2, 1, "td", 9);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](7, 12);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](8, DictionaryComponent_table_3_th_8_Template, 3, 3, "th", 8);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](9, DictionaryComponent_table_3_td_9_Template, 2, 1, "td", 11);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](11, 11);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](12, DictionaryComponent_div_2_th_12_Template, 3, 3, "th", 12);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](13, DictionaryComponent_div_2_td_13_Template, 2, 1, "td", 13);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](10, 13);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](11, DictionaryComponent_table_3_th_11_Template, 3, 3, "th", 14);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](12, DictionaryComponent_table_3_td_12_Template, 2, 1, "td", 15);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](14, 14);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](15, DictionaryComponent_div_2_th_15_Template, 3, 3, "th", 15);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](16, DictionaryComponent_div_2_td_16_Template, 4, 3, "td", 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerStart"](13, 16);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](14, DictionaryComponent_table_3_th_14_Template, 3, 3, "th", 17);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](15, DictionaryComponent_table_3_td_15_Template, 4, 3, "td", 18);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementContainerEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, DictionaryComponent_div_2_tr_17_Template, 1, 0, "tr", 17);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](18, DictionaryComponent_div_2_tr_18_Template, 1, 0, "tr", 18);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "mat-paginator", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](16, DictionaryComponent_table_3_tr_16_Template, 1, 0, "tr", 19);
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, DictionaryComponent_table_3_tr_17_Template, 1, 0, "tr", 20);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r0 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵnextContext"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("dataSource", ctx_r0.dataSource);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](16);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("matHeaderRowDef", ctx_r0.displayedColumns);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("matRowDefColumns", ctx_r0.displayedColumns);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("pageSizeOptions", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](4, _c0));
 } }
-function DictionaryComponent_div_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 31);
+function DictionaryComponent_div_6_Template(rf, ctx) { if (rf & 1) {
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 32);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1);
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](2, "translate");
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 } if (rf & 2) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
-    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate"](_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.WARNING"));
+    _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtextInterpolate1"](" ", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind1"](2, 1, "DICTIONARY.WARNING"), " ");
 } }
+const _c0 = function () { return [10, 20, 50, 100]; };
 class DictionaryComponent {
     constructor(dataGameService, audioService, translate, _store$) {
         this.dataGameService = dataGameService;
@@ -655,7 +649,7 @@ class DictionaryComponent {
     ngOnInit() {
         this._store$.dispatch(Object(src_app_store_action_dictionary_action__WEBPACK_IMPORTED_MODULE_5__["setAudioSrc"])({ word: new _game_word_model__WEBPACK_IMPORTED_MODULE_1__["Word"](), src: '' }));
         this.dictionarySubscription = this.dictionary$.subscribe((data) => {
-            this.dataSource.data = data;
+            this.dataSource = new _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatTableDataSource"](data);
             this.dataSource.paginator = this.paginator;
         });
         this.srcAudioSubscription = this.srcAudio$.subscribe((data) => {
@@ -691,19 +685,30 @@ DictionaryComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
     } if (rf & 2) {
         var _t;
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵqueryRefresh"](_t = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵloadQuery"]()) && (ctx.paginator = _t.first);
-    } }, decls: 4, vars: 2, consts: [[1, "app-dictionary"], [1, "app-dictionary--container"], [4, "ngIf"], ["class", "app-dictionary--warning", 4, "ngIf"], ["mat-table", "", 1, "mat-elevation-z8", 3, "dataSource"], ["matColumnDef", "index"], ["mat-header-cell", "", 4, "matHeaderCellDef"], ["mat-cell", "", "class", "app-dictionary--index", 4, "matCellDef"], ["matColumnDef", "russianWord"], ["mat-cell", "", "class", "app-dictionary--word", 4, "matCellDef"], ["matColumnDef", "englishWord"], ["matColumnDef", "listen"], ["mat-header-cell", "", "class", "app-dictionary--sound", 4, "matHeaderCellDef"], ["mat-cell", "", "class", "app-dictionary--sound", 4, "matCellDef"], ["matColumnDef", "actions"], ["mat-header-cell", "", "class", "app-dictionary--remove", 4, "matHeaderCellDef"], ["mat-cell", "", "class", "app-dictionary--remove", 4, "matCellDef"], ["mat-header-row", "", 4, "matHeaderRowDef"], ["mat-row", "", 4, "matRowDef", "matRowDefColumns"], ["showFirstLastButtons", "", 3, "pageSizeOptions"], ["mat-header-cell", ""], ["mat-cell", "", 1, "app-dictionary--index"], ["mat-cell", "", 1, "app-dictionary--word"], ["mat-header-cell", "", 1, "app-dictionary--sound"], ["mat-cell", "", 1, "app-dictionary--sound"], [1, "app-dictionary--spinner-btn", 3, "options", "click"], ["mat-header-cell", "", 1, "app-dictionary--remove"], ["mat-cell", "", 1, "app-dictionary--remove"], ["mat-raised-button", "", "color", "accent", 1, "app-dictionary--remove-btn", 3, "click"], ["mat-header-row", ""], ["mat-row", ""], [1, "app-dictionary--warning"]], template: function DictionaryComponent_Template(rf, ctx) { if (rf & 1) {
+    } }, decls: 7, vars: 8, consts: [[1, "app-dictionary"], [1, "app-dictionary--container"], ["mat-table", "", 3, "dataSource", 4, "ngIf"], [3, "hidden"], ["showFirstLastButtons", "", 3, "pageSizeOptions"], ["class", "app-dictionary--warning", 4, "ngIf"], ["mat-table", "", 3, "dataSource"], ["matColumnDef", "index"], ["mat-header-cell", "", 4, "matHeaderCellDef"], ["mat-cell", "", "class", "app-dictionary--index", 4, "matCellDef"], ["matColumnDef", "russianWord"], ["mat-cell", "", "class", "app-dictionary--word", 4, "matCellDef"], ["matColumnDef", "englishWord"], ["matColumnDef", "listen"], ["mat-header-cell", "", "class", "app-dictionary--sound", 4, "matHeaderCellDef"], ["mat-cell", "", "class", "app-dictionary--sound", 4, "matCellDef"], ["matColumnDef", "actions"], ["mat-header-cell", "", "class", "app-dictionary--remove", 4, "matHeaderCellDef"], ["mat-cell", "", "class", "app-dictionary--remove", 4, "matCellDef"], ["mat-header-row", "", 4, "matHeaderRowDef"], ["mat-row", "", 4, "matRowDef", "matRowDefColumns"], ["mat-header-cell", ""], ["mat-cell", "", 1, "app-dictionary--index"], ["mat-cell", "", 1, "app-dictionary--word"], ["mat-header-cell", "", 1, "app-dictionary--sound"], ["mat-cell", "", 1, "app-dictionary--sound"], [1, "app-dictionary--spinner-btn", 3, "options", "click"], ["mat-header-cell", "", 1, "app-dictionary--remove"], ["mat-cell", "", 1, "app-dictionary--remove"], ["mat-raised-button", "", "color", "accent", 1, "app-dictionary--remove-btn", 3, "click"], ["mat-header-row", ""], ["mat-row", ""], [1, "app-dictionary--warning"]], template: function DictionaryComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](2, DictionaryComponent_div_2_Template, 20, 5, "div", 2);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, DictionaryComponent_div_3_Template, 3, 3, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](3, DictionaryComponent_table_3_Template, 18, 3, "table", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](5, "mat-paginator", 4);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](6, DictionaryComponent_div_6_Template, 3, 3, "div", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵclassMap"](ctx.dataSource.filteredData.length > 0 ? "mat-elevation-z8" : "");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.dataSource.filteredData.length > 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("hidden", ctx.dataSource.filteredData.length === 0);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("pageSizeOptions", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction0"](7, _c0));
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.dataSource.filteredData.length === 0);
-    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_10__["NgIf"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatTable"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatColumnDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderCellDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatCellDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderRowDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatRowDef"], _angular_material_paginator__WEBPACK_IMPORTED_MODULE_3__["MatPaginator"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderCell"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatCell"], mat_progress_buttons__WEBPACK_IMPORTED_MODULE_11__["MatSpinnerButtonComponent"], _angular_material_button__WEBPACK_IMPORTED_MODULE_12__["MatButton"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderRow"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatRow"]], pipes: [_ngx_translate_core__WEBPACK_IMPORTED_MODULE_9__["TranslatePipe"]], styles: ["@import url(\"https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap\");\n.app-dictionary[_ngcontent-%COMP%] {\n  width: 100%;\n  margin: 50px auto;\n}\n.app-dictionary--container[_ngcontent-%COMP%] {\n  width: 1200px;\n  margin: auto;\n}\n.app-dictionary--index[_ngcontent-%COMP%], .app-dictionary--word[_ngcontent-%COMP%], .app-dictionary--sound[_ngcontent-%COMP%], .app-dictionary--remove[_ngcontent-%COMP%] {\n  padding: 0.5em;\n}\n.app-dictionary--index[_ngcontent-%COMP%] {\n  width: 10%;\n}\n.app-dictionary--word[_ngcontent-%COMP%] {\n  width: 35%;\n}\n.app-dictionary--sound[_ngcontent-%COMP%], .app-dictionary--remove[_ngcontent-%COMP%] {\n  text-align: center;\n  width: 10%;\n}\n.app-dictionary--warning[_ngcontent-%COMP%] {\n  font-size: 1.2em;\n  font-family: \"Roboto\", sans-serif;\n  color: #424242;\n  line-height: 2em;\n  text-align: center;\n}\n.mat-elevation-z8[_ngcontent-%COMP%] {\n  width: 100%;\n  margin: auto;\n}\n@media (max-width: 1440px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 1000px;\n  }\n}\n@media (max-width: 1200px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 800px;\n  }\n}\n@media (max-width: 998px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 700px;\n  }\n}\n@media (max-width: 768px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 520px;\n  }\n}\n@media (max-width: 550px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 350px;\n  }\n  .app-dictionary--remove-btn[_ngcontent-%COMP%], .app-dictionary--spinner-btn[_ngcontent-%COMP%] {\n    font-size: 0.8em;\n    line-height: 2.2em;\n    min-width: 2em;\n    padding: 0.5em;\n    text-align: right;\n  }\n  .app-dictionary--index[_ngcontent-%COMP%], .app-dictionary--word[_ngcontent-%COMP%], .app-dictionary--sound[_ngcontent-%COMP%], .app-dictionary--remove[_ngcontent-%COMP%] {\n    padding: 0.2em;\n  }\n\n  td.mat-cell[_ngcontent-%COMP%]:last-of-type, th.mat-header-cell[_ngcontent-%COMP%]:last-of-type {\n    padding-right: 0.5em;\n  }\n\n  td.mat-cell[_ngcontent-%COMP%]:first-of-type, th.mat-header-cell[_ngcontent-%COMP%]:first-of-type {\n    padding-left: 0.5em;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9tYXJnYXJpdGEvRG93bmxvYWRzL2xlYXJuLWVuZ2xpc2gvc3JjL2FwcC9jb21wb25lbnRzL2RpY3Rpb25hcnkvZGljdGlvbmFyeS5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9kaWN0aW9uYXJ5L2RpY3Rpb25hcnkuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQVEsb0ZBQUE7QUFFUjtFQUNDLFdBQUE7RUFDQSxpQkFBQTtBQ0FEO0FER0c7RUFDRixhQUFBO0VBQ0EsWUFBQTtBQ0REO0FESUU7RUFJRCxjQUFBO0FDTEQ7QURPQztFQUNDLFVBQUE7QUNMRjtBRFFDO0VBQ0MsVUFBQTtBQ05GO0FEU0M7RUFFQyxrQkFBQTtFQUNBLFVBQUE7QUNSRjtBRFdDO0VBQ0MsZ0JBQUE7RUFDQSxpQ0FBQTtFQUNBLGNBQUE7RUFDQSxnQkFBQTtFQUNBLGtCQUFBO0FDVEY7QURhQztFQUNBLFdBQUE7RUFDQSxZQUFBO0FDVkQ7QURhQTtFQUVFO0lBQ0MsYUFBQTtFQ1hEO0FBQ0Y7QURlQTtFQUVFO0lBQ0MsWUFBQTtFQ2REO0FBQ0Y7QURrQkE7RUFFRTtJQUNDLFlBQUE7RUNqQkQ7QUFDRjtBRHFCQTtFQUVFO0lBQ0MsWUFBQTtFQ3BCRDtBQUNGO0FEeUJBO0VBRUU7SUFDQyxZQUFBO0VDeEJEO0VEMkJBO0lBRUMsZ0JBQUE7SUFDQSxrQkFBQTtJQUNBLGNBQUE7SUFDQSxjQUFBO0lBQ0EsaUJBQUE7RUMxQkQ7RUQ2QkE7SUFJRSxjQUFBO0VDOUJGOztFRGtDRDs7SUFFQyxvQkFBQTtFQy9CQTs7RURrQ0Q7O0lBRUMsbUJBQUE7RUMvQkE7QUFDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZGljdGlvbmFyeS9kaWN0aW9uYXJ5LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9Um9ib3RvOndnaHRAMzAwJmRpc3BsYXk9c3dhcCcpO1xuXG4uYXBwLWRpY3Rpb25hcnkge1xuXHR3aWR0aDoxMDAlO1xuXHRtYXJnaW46NTBweCBhdXRvO1xuXG5cbiAgICYtLWNvbnRhaW5lciB7XG5cdHdpZHRoOjEyMDBweDtcblx0bWFyZ2luOiBhdXRvO1xuICAgfVxuXG4gXHQmLS1pbmRleCxcbiBcdCYtLXdvcmQsXG4gXHQmLS1zb3VuZCxcblx0Ji0tcmVtb3ZlIHtcblx0cGFkZGluZzowLjVlbTtcbn1cblx0Ji0taW5kZXgge1xuXHRcdHdpZHRoOjEwJTtcblx0fVxuXG5cdCYtLXdvcmQge1xuXHRcdHdpZHRoOjM1JTtcblx0fVxuXG5cdCYtLXNvdW5kLFxuXHQmLS1yZW1vdmUge1xuXHRcdHRleHQtYWxpZ246IGNlbnRlcjtcblx0XHR3aWR0aDoxMCU7XG5cdH1cblx0XHRcblx0Ji0td2FybmluZyB7XG5cdFx0Zm9udC1zaXplOiAxLjJlbTtcblx0XHRmb250LWZhbWlseTogJ1JvYm90bycsIHNhbnMtc2VyaWY7XG5cdFx0Y29sb3I6IHJnYig2NiwgNjYsIDY2KTtcblx0XHRsaW5lLWhlaWdodDogMmVtO1xuXHRcdHRleHQtYWxpZ246IGNlbnRlcjtcblx0fVxufVxuXG4gLm1hdC1lbGV2YXRpb24tejgge1xuXHR3aWR0aDoxMDAlO1xuXHRtYXJnaW46YXV0bztcbn0gICBcblxuQG1lZGlhIChtYXgtd2lkdGg6MTQ0MHB4KSB7XG4gICAgLmFwcC1kaWN0aW9uYXJ5IHtcblx0XHQmLS1jb250YWluZXIge1xuXHRcdFx0d2lkdGg6MTAwMHB4O1xuXHRcdCAgIH1cblx0XHR9XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOjEyMDBweCkge1xuXHQuYXBwLWRpY3Rpb25hcnkge1xuXHRcdCYtLWNvbnRhaW5lciB7XG5cdFx0XHR3aWR0aDo4MDBweDtcblx0XHQgICB9XG5cdFx0fVxufVxuXG5AbWVkaWEgKG1heC13aWR0aDo5OThweCkge1xuXHQuYXBwLWRpY3Rpb25hcnkge1xuXHRcdCYtLWNvbnRhaW5lciB7XG5cdFx0XHR3aWR0aDo3MDBweDtcblx0XHQgICB9XG5cdH1cbn1cblxuQG1lZGlhKG1heC13aWR0aDogNzY4cHgpIHtcblx0LmFwcC1kaWN0aW9uYXJ5IHtcblx0XHQmLS1jb250YWluZXIge1xuXHRcdFx0d2lkdGg6NTIwcHg7XG5cdFx0fVxuXHR9XG59XG5cblxuQG1lZGlhKG1heC13aWR0aDogNTUwcHgpIHtcblx0LmFwcC1kaWN0aW9uYXJ5IHtcblx0XHQmLS1jb250YWluZXIge1xuXHRcdFx0d2lkdGg6MzUwcHg7XG5cdFx0ICAgfVxuXG5cdFx0Ji0tcmVtb3ZlLWJ0biAsXG5cdFx0Ji0tc3Bpbm5lci1idG4ge1xuXHRcdFx0Zm9udC1zaXplOiAwLjhlbTtcblx0XHRcdGxpbmUtaGVpZ2h0OiAyLjJlbTsgXG5cdFx0XHRtaW4td2lkdGg6IDJlbTtcblx0XHRcdHBhZGRpbmc6MC41ZW07XG5cdFx0XHR0ZXh0LWFsaWduOiByaWdodDtcblx0XHQgICB9XG5cblx0XHQmLS1pbmRleCxcblx0XHQmLS13b3JkLFxuXHRcdCYtLXNvdW5kLFxuXHRcdCYtLXJlbW92ZSB7XG5cdFx0IFx0cGFkZGluZzowLjJlbTtcblx0ICBcdFx0fSBcblx0fVxuXHRcblx0dGQubWF0LWNlbGw6bGFzdC1vZi10eXBlLFxuXHR0aC5tYXQtaGVhZGVyLWNlbGw6bGFzdC1vZi10eXBlIHtcblx0XHRwYWRkaW5nLXJpZ2h0OiAwLjVlbTtcblx0fVxuXG5cdHRkLm1hdC1jZWxsOmZpcnN0LW9mLXR5cGUsXG5cdHRoLm1hdC1oZWFkZXItY2VsbDpmaXJzdC1vZi10eXBlIHtcblx0XHRwYWRkaW5nLWxlZnQ6IDAuNWVtO1xuXHR9XG5cdFxufVxuICIsIkBpbXBvcnQgdXJsKFwiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1Sb2JvdG86d2dodEAzMDAmZGlzcGxheT1zd2FwXCIpO1xuLmFwcC1kaWN0aW9uYXJ5IHtcbiAgd2lkdGg6IDEwMCU7XG4gIG1hcmdpbjogNTBweCBhdXRvO1xufVxuLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICB3aWR0aDogMTIwMHB4O1xuICBtYXJnaW46IGF1dG87XG59XG4uYXBwLWRpY3Rpb25hcnktLWluZGV4LCAuYXBwLWRpY3Rpb25hcnktLXdvcmQsIC5hcHAtZGljdGlvbmFyeS0tc291bmQsIC5hcHAtZGljdGlvbmFyeS0tcmVtb3ZlIHtcbiAgcGFkZGluZzogMC41ZW07XG59XG4uYXBwLWRpY3Rpb25hcnktLWluZGV4IHtcbiAgd2lkdGg6IDEwJTtcbn1cbi5hcHAtZGljdGlvbmFyeS0td29yZCB7XG4gIHdpZHRoOiAzNSU7XG59XG4uYXBwLWRpY3Rpb25hcnktLXNvdW5kLCAuYXBwLWRpY3Rpb25hcnktLXJlbW92ZSB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgd2lkdGg6IDEwJTtcbn1cbi5hcHAtZGljdGlvbmFyeS0td2FybmluZyB7XG4gIGZvbnQtc2l6ZTogMS4yZW07XG4gIGZvbnQtZmFtaWx5OiBcIlJvYm90b1wiLCBzYW5zLXNlcmlmO1xuICBjb2xvcjogIzQyNDI0MjtcbiAgbGluZS1oZWlnaHQ6IDJlbTtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ubWF0LWVsZXZhdGlvbi16OCB7XG4gIHdpZHRoOiAxMDAlO1xuICBtYXJnaW46IGF1dG87XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOiAxNDQwcHgpIHtcbiAgLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICAgIHdpZHRoOiAxMDAwcHg7XG4gIH1cbn1cbkBtZWRpYSAobWF4LXdpZHRoOiAxMjAwcHgpIHtcbiAgLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICAgIHdpZHRoOiA4MDBweDtcbiAgfVxufVxuQG1lZGlhIChtYXgtd2lkdGg6IDk5OHB4KSB7XG4gIC5hcHAtZGljdGlvbmFyeS0tY29udGFpbmVyIHtcbiAgICB3aWR0aDogNzAwcHg7XG4gIH1cbn1cbkBtZWRpYSAobWF4LXdpZHRoOiA3NjhweCkge1xuICAuYXBwLWRpY3Rpb25hcnktLWNvbnRhaW5lciB7XG4gICAgd2lkdGg6IDUyMHB4O1xuICB9XG59XG5AbWVkaWEgKG1heC13aWR0aDogNTUwcHgpIHtcbiAgLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICAgIHdpZHRoOiAzNTBweDtcbiAgfVxuICAuYXBwLWRpY3Rpb25hcnktLXJlbW92ZS1idG4sIC5hcHAtZGljdGlvbmFyeS0tc3Bpbm5lci1idG4ge1xuICAgIGZvbnQtc2l6ZTogMC44ZW07XG4gICAgbGluZS1oZWlnaHQ6IDIuMmVtO1xuICAgIG1pbi13aWR0aDogMmVtO1xuICAgIHBhZGRpbmc6IDAuNWVtO1xuICAgIHRleHQtYWxpZ246IHJpZ2h0O1xuICB9XG4gIC5hcHAtZGljdGlvbmFyeS0taW5kZXgsIC5hcHAtZGljdGlvbmFyeS0td29yZCwgLmFwcC1kaWN0aW9uYXJ5LS1zb3VuZCwgLmFwcC1kaWN0aW9uYXJ5LS1yZW1vdmUge1xuICAgIHBhZGRpbmc6IDAuMmVtO1xuICB9XG5cbiAgdGQubWF0LWNlbGw6bGFzdC1vZi10eXBlLFxudGgubWF0LWhlYWRlci1jZWxsOmxhc3Qtb2YtdHlwZSB7XG4gICAgcGFkZGluZy1yaWdodDogMC41ZW07XG4gIH1cblxuICB0ZC5tYXQtY2VsbDpmaXJzdC1vZi10eXBlLFxudGgubWF0LWhlYWRlci1jZWxsOmZpcnN0LW9mLXR5cGUge1xuICAgIHBhZGRpbmctbGVmdDogMC41ZW07XG4gIH1cbn0iXX0= */"] });
+    } }, directives: [_angular_common__WEBPACK_IMPORTED_MODULE_10__["NgIf"], _angular_material_paginator__WEBPACK_IMPORTED_MODULE_3__["MatPaginator"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatTable"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatColumnDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderCellDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatCellDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderRowDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatRowDef"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderCell"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatCell"], mat_progress_buttons__WEBPACK_IMPORTED_MODULE_11__["MatSpinnerButtonComponent"], _angular_material_button__WEBPACK_IMPORTED_MODULE_12__["MatButton"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatHeaderRow"], _angular_material_table__WEBPACK_IMPORTED_MODULE_2__["MatRow"]], pipes: [_ngx_translate_core__WEBPACK_IMPORTED_MODULE_9__["TranslatePipe"]], styles: ["@import url(\"https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap\");\n.app-dictionary[_ngcontent-%COMP%] {\n  width: 100%;\n  margin: 50px auto;\n}\n.app-dictionary--container[_ngcontent-%COMP%] {\n  width: 1200px;\n  margin: auto;\n}\n.app-dictionary--index[_ngcontent-%COMP%], .app-dictionary--word[_ngcontent-%COMP%], .app-dictionary--sound[_ngcontent-%COMP%], .app-dictionary--remove[_ngcontent-%COMP%] {\n  padding: 0.5em;\n}\n.app-dictionary--index[_ngcontent-%COMP%] {\n  width: 10%;\n}\n.app-dictionary--word[_ngcontent-%COMP%] {\n  width: 35%;\n}\n.app-dictionary--sound[_ngcontent-%COMP%], .app-dictionary--remove[_ngcontent-%COMP%] {\n  text-align: center;\n  width: 10%;\n}\n.app-dictionary--warning[_ngcontent-%COMP%] {\n  font-size: 1.2em;\n  font-family: \"Roboto\", sans-serif;\n  color: #424242;\n  line-height: 2em;\n  text-align: center;\n}\n.mat-elevation-z8[_ngcontent-%COMP%] {\n  width: 100%;\n  margin: auto;\n}\n@media (max-width: 1440px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 1000px;\n  }\n}\n@media (max-width: 1200px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 800px;\n  }\n}\n@media (max-width: 998px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 700px;\n  }\n}\n@media (max-width: 768px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 520px;\n  }\n}\n@media (max-width: 550px) {\n  .app-dictionary--container[_ngcontent-%COMP%] {\n    width: 350px;\n  }\n  .app-dictionary--remove-btn[_ngcontent-%COMP%], .app-dictionary--spinner-btn[_ngcontent-%COMP%] {\n    font-size: 0.8em;\n    line-height: 2.2em;\n    min-width: 2em;\n    padding: 0.5em;\n    text-align: right;\n  }\n  .app-dictionary--index[_ngcontent-%COMP%], .app-dictionary--word[_ngcontent-%COMP%], .app-dictionary--sound[_ngcontent-%COMP%], .app-dictionary--remove[_ngcontent-%COMP%] {\n    padding: 0.2em;\n  }\n\n  td.mat-cell[_ngcontent-%COMP%]:last-of-type, th.mat-header-cell[_ngcontent-%COMP%]:last-of-type {\n    padding-right: 0.5em;\n  }\n\n  td.mat-cell[_ngcontent-%COMP%]:first-of-type, th.mat-header-cell[_ngcontent-%COMP%]:first-of-type {\n    padding-left: 0.5em;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9tYXJnYXJpdGEvRG93bmxvYWRzL2xlYXJuLWVuZ2xpc2gvc3JjL2FwcC9jb21wb25lbnRzL2RpY3Rpb25hcnkvZGljdGlvbmFyeS5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvY29tcG9uZW50cy9kaWN0aW9uYXJ5L2RpY3Rpb25hcnkuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQVEsb0ZBQUE7QUFFUjtFQUNDLFdBQUE7RUFDQSxpQkFBQTtBQ0FEO0FER0c7RUFDRixhQUFBO0VBQ0EsWUFBQTtBQ0REO0FESUU7RUFJRCxjQUFBO0FDTEQ7QURPQztFQUNDLFVBQUE7QUNMRjtBRFFDO0VBQ0MsVUFBQTtBQ05GO0FEU0M7RUFFQyxrQkFBQTtFQUNBLFVBQUE7QUNSRjtBRFdDO0VBQ0MsZ0JBQUE7RUFDQSxpQ0FBQTtFQUNBLGNBQUE7RUFDQSxnQkFBQTtFQUNBLGtCQUFBO0FDVEY7QURhQztFQUNBLFdBQUE7RUFDQSxZQUFBO0FDVkQ7QURhQTtFQUVFO0lBQ0MsYUFBQTtFQ1hEO0FBQ0Y7QURlQTtFQUVFO0lBQ0MsWUFBQTtFQ2REO0FBQ0Y7QURrQkE7RUFFRTtJQUNDLFlBQUE7RUNqQkQ7QUFDRjtBRHFCQTtFQUVFO0lBQ0MsWUFBQTtFQ3BCRDtBQUNGO0FEeUJBO0VBRUU7SUFDQyxZQUFBO0VDeEJEO0VEMkJBO0lBRUMsZ0JBQUE7SUFDQSxrQkFBQTtJQUNBLGNBQUE7SUFDQSxjQUFBO0lBQ0EsaUJBQUE7RUMxQkQ7RUQ2QkE7SUFJRSxjQUFBO0VDOUJGOztFRGtDRDs7SUFFQyxvQkFBQTtFQy9CQTs7RURrQ0Q7O0lBRUMsbUJBQUE7RUMvQkE7QUFDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvZGljdGlvbmFyeS9kaWN0aW9uYXJ5LmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9Um9ib3RvOndnaHRAMzAwJmRpc3BsYXk9c3dhcCcpO1xuXG4uYXBwLWRpY3Rpb25hcnkge1xuXHR3aWR0aDoxMDAlO1xuXHRtYXJnaW46NTBweCBhdXRvO1xuXG5cbiAgICYtLWNvbnRhaW5lciB7XG5cdHdpZHRoOjEyMDBweDtcblx0bWFyZ2luOiBhdXRvO1xuICAgfVxuXG4gXHQmLS1pbmRleCxcbiBcdCYtLXdvcmQsXG4gXHQmLS1zb3VuZCxcblx0Ji0tcmVtb3ZlIHtcblx0cGFkZGluZzowLjVlbTtcbn1cblx0Ji0taW5kZXgge1xuXHRcdHdpZHRoOjEwJTtcblx0fVxuXG5cdCYtLXdvcmQge1xuXHRcdHdpZHRoOjM1JTtcblx0fVxuXG5cdCYtLXNvdW5kLFxuXHQmLS1yZW1vdmUge1xuXHRcdHRleHQtYWxpZ246IGNlbnRlcjtcblx0XHR3aWR0aDoxMCU7XG5cdH1cblx0XHRcblx0Ji0td2FybmluZyB7XG5cdFx0Zm9udC1zaXplOiAxLjJlbTtcblx0XHRmb250LWZhbWlseTogJ1JvYm90bycsIHNhbnMtc2VyaWY7XG5cdFx0Y29sb3I6IHJnYig2NiwgNjYsIDY2KTtcblx0XHRsaW5lLWhlaWdodDogMmVtO1xuXHRcdHRleHQtYWxpZ246IGNlbnRlcjtcblx0fVxufVxuXG4gLm1hdC1lbGV2YXRpb24tejgge1xuXHR3aWR0aDoxMDAlO1xuXHRtYXJnaW46YXV0bztcbn0gICBcblxuQG1lZGlhIChtYXgtd2lkdGg6MTQ0MHB4KSB7XG4gICAgLmFwcC1kaWN0aW9uYXJ5IHtcblx0XHQmLS1jb250YWluZXIge1xuXHRcdFx0d2lkdGg6MTAwMHB4O1xuXHRcdCAgIH1cblx0XHR9XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOjEyMDBweCkge1xuXHQuYXBwLWRpY3Rpb25hcnkge1xuXHRcdCYtLWNvbnRhaW5lciB7XG5cdFx0XHR3aWR0aDo4MDBweDtcblx0XHQgICB9XG5cdFx0fVxufVxuXG5AbWVkaWEgKG1heC13aWR0aDo5OThweCkge1xuXHQuYXBwLWRpY3Rpb25hcnkge1xuXHRcdCYtLWNvbnRhaW5lciB7XG5cdFx0XHR3aWR0aDo3MDBweDtcblx0XHQgICB9XG5cdH1cbn1cblxuQG1lZGlhKG1heC13aWR0aDogNzY4cHgpIHtcblx0LmFwcC1kaWN0aW9uYXJ5IHtcblx0XHQmLS1jb250YWluZXIge1xuXHRcdFx0d2lkdGg6NTIwcHg7XG5cdFx0fVxuXHR9XG59XG5cblxuQG1lZGlhKG1heC13aWR0aDogNTUwcHgpIHtcblx0LmFwcC1kaWN0aW9uYXJ5IHtcblx0XHQmLS1jb250YWluZXIge1xuXHRcdFx0d2lkdGg6MzUwcHg7XG5cdFx0ICAgfVxuXG5cdFx0Ji0tcmVtb3ZlLWJ0biAsXG5cdFx0Ji0tc3Bpbm5lci1idG4ge1xuXHRcdFx0Zm9udC1zaXplOiAwLjhlbTtcblx0XHRcdGxpbmUtaGVpZ2h0OiAyLjJlbTsgXG5cdFx0XHRtaW4td2lkdGg6IDJlbTtcblx0XHRcdHBhZGRpbmc6MC41ZW07XG5cdFx0XHR0ZXh0LWFsaWduOiByaWdodDtcblx0XHQgICB9XG5cblx0XHQmLS1pbmRleCxcblx0XHQmLS13b3JkLFxuXHRcdCYtLXNvdW5kLFxuXHRcdCYtLXJlbW92ZSB7XG5cdFx0IFx0cGFkZGluZzowLjJlbTtcblx0ICBcdFx0fSBcblx0fVxuXHRcblx0dGQubWF0LWNlbGw6bGFzdC1vZi10eXBlLFxuXHR0aC5tYXQtaGVhZGVyLWNlbGw6bGFzdC1vZi10eXBlIHtcblx0XHRwYWRkaW5nLXJpZ2h0OiAwLjVlbTtcblx0fVxuXG5cdHRkLm1hdC1jZWxsOmZpcnN0LW9mLXR5cGUsXG5cdHRoLm1hdC1oZWFkZXItY2VsbDpmaXJzdC1vZi10eXBlIHtcblx0XHRwYWRkaW5nLWxlZnQ6IDAuNWVtO1xuXHR9XG5cdFxufVxuICIsIkBpbXBvcnQgdXJsKFwiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1Sb2JvdG86d2dodEAzMDAmZGlzcGxheT1zd2FwXCIpO1xuLmFwcC1kaWN0aW9uYXJ5IHtcbiAgd2lkdGg6IDEwMCU7XG4gIG1hcmdpbjogNTBweCBhdXRvO1xufVxuLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICB3aWR0aDogMTIwMHB4O1xuICBtYXJnaW46IGF1dG87XG59XG4uYXBwLWRpY3Rpb25hcnktLWluZGV4LCAuYXBwLWRpY3Rpb25hcnktLXdvcmQsIC5hcHAtZGljdGlvbmFyeS0tc291bmQsIC5hcHAtZGljdGlvbmFyeS0tcmVtb3ZlIHtcbiAgcGFkZGluZzogMC41ZW07XG59XG4uYXBwLWRpY3Rpb25hcnktLWluZGV4IHtcbiAgd2lkdGg6IDEwJTtcbn1cbi5hcHAtZGljdGlvbmFyeS0td29yZCB7XG4gIHdpZHRoOiAzNSU7XG59XG4uYXBwLWRpY3Rpb25hcnktLXNvdW5kLCAuYXBwLWRpY3Rpb25hcnktLXJlbW92ZSB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgd2lkdGg6IDEwJTtcbn1cbi5hcHAtZGljdGlvbmFyeS0td2FybmluZyB7XG4gIGZvbnQtc2l6ZTogMS4yZW07XG4gIGZvbnQtZmFtaWx5OiBcIlJvYm90b1wiLCBzYW5zLXNlcmlmO1xuICBjb2xvcjogIzQyNDI0MjtcbiAgbGluZS1oZWlnaHQ6IDJlbTtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ubWF0LWVsZXZhdGlvbi16OCB7XG4gIHdpZHRoOiAxMDAlO1xuICBtYXJnaW46IGF1dG87XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOiAxNDQwcHgpIHtcbiAgLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICAgIHdpZHRoOiAxMDAwcHg7XG4gIH1cbn1cbkBtZWRpYSAobWF4LXdpZHRoOiAxMjAwcHgpIHtcbiAgLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICAgIHdpZHRoOiA4MDBweDtcbiAgfVxufVxuQG1lZGlhIChtYXgtd2lkdGg6IDk5OHB4KSB7XG4gIC5hcHAtZGljdGlvbmFyeS0tY29udGFpbmVyIHtcbiAgICB3aWR0aDogNzAwcHg7XG4gIH1cbn1cbkBtZWRpYSAobWF4LXdpZHRoOiA3NjhweCkge1xuICAuYXBwLWRpY3Rpb25hcnktLWNvbnRhaW5lciB7XG4gICAgd2lkdGg6IDUyMHB4O1xuICB9XG59XG5AbWVkaWEgKG1heC13aWR0aDogNTUwcHgpIHtcbiAgLmFwcC1kaWN0aW9uYXJ5LS1jb250YWluZXIge1xuICAgIHdpZHRoOiAzNTBweDtcbiAgfVxuICAuYXBwLWRpY3Rpb25hcnktLXJlbW92ZS1idG4sIC5hcHAtZGljdGlvbmFyeS0tc3Bpbm5lci1idG4ge1xuICAgIGZvbnQtc2l6ZTogMC44ZW07XG4gICAgbGluZS1oZWlnaHQ6IDIuMmVtO1xuICAgIG1pbi13aWR0aDogMmVtO1xuICAgIHBhZGRpbmc6IDAuNWVtO1xuICAgIHRleHQtYWxpZ246IHJpZ2h0O1xuICB9XG4gIC5hcHAtZGljdGlvbmFyeS0taW5kZXgsIC5hcHAtZGljdGlvbmFyeS0td29yZCwgLmFwcC1kaWN0aW9uYXJ5LS1zb3VuZCwgLmFwcC1kaWN0aW9uYXJ5LS1yZW1vdmUge1xuICAgIHBhZGRpbmc6IDAuMmVtO1xuICB9XG5cbiAgdGQubWF0LWNlbGw6bGFzdC1vZi10eXBlLFxudGgubWF0LWhlYWRlci1jZWxsOmxhc3Qtb2YtdHlwZSB7XG4gICAgcGFkZGluZy1yaWdodDogMC41ZW07XG4gIH1cblxuICB0ZC5tYXQtY2VsbDpmaXJzdC1vZi10eXBlLFxudGgubWF0LWhlYWRlci1jZWxsOmZpcnN0LW9mLXR5cGUge1xuICAgIHBhZGRpbmctbGVmdDogMC41ZW07XG4gIH1cbn0iXX0= */"] });
 /*@__PURE__*/ (function () { _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](DictionaryComponent, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
