@@ -54,7 +54,9 @@
 	"ABOUT-ME": {
 		"ARTICLE": "Hello! My name is Margarita. I began my introduction to programming in December 2019. This is my first project written in a programming language.",
 		"TEXT": "This project was created as part of the EPAM training. The project uses technologies such as",
-		"CONTINUE": "using libraries"
+		"CONTINUE": "using libraries",
+		"TOPIC": "Why did I choose a topic related to learning English for the final project?",
+		"ANSWER": "Today, English is one of the most popular languages ​​in the world. About 1.5 billion people speak English, and about 1 billion learn it. English encompassed all areas of human life: science, the media, study, work and leisure."
 	}
 
   }
