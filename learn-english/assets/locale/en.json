@@ -37,7 +37,8 @@
 		"MAT-LABEL": "Enter the word",
 		"EXAMPLE": "enter word...",
 		"RU": "Russian",
-		"EN": "English"
+		"EN": "English",
+		"BUTTON": "Translate"
 	},
 
 	"PROFILE": {
